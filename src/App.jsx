@@ -1,6 +1,6 @@
-import React from 'react';
-import { Hero } from './components';
-import { heroapi } from './data/data.js';
+import React from 'react'
+import { Hero } from './components'
+import { heroapi } from './data/data'
 
 const App = () => {
   return (
@@ -13,4 +13,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
